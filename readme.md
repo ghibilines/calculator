@@ -6,4 +6,4 @@ this oxyMORONIC process, which can be considered "creative" and "Dada" by the un
 
 redeems the faults of the subject, creating transietory unobservable intellect
 
-thus the subject ascends
+and thus the subject ascends
