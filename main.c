@@ -34,7 +34,7 @@ int main()
 	bzero(argstack,STKSIZE);
 	bzero(comstack,STKSIZE);
 	bzero(usestack,STKSIZE);
-	bzero(symstack,STKSIZE);
+	bzero(symstack,SYMSIZE);
 	int argptr=0;
 	int comptr=0;
 	int useptr=0;
